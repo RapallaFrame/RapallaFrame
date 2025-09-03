@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RapallaFrame
-- 👀 I’m interested in Python, Java and SQL
+- 👀 I’m interested in Python, and SQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me Bailbondsman_rframe@yahoo.com
